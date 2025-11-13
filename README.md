@@ -136,5 +136,5 @@ run tp05_lsq_driver.m
 
 ## Licencia y créditos
 
-- Código educativo para tu TP. Teoría alineada con tus apuntes de cátedra.
+- Código educativo. Teoría alineada con tus apuntes de cátedra.
 - `chebyshev_nodes.m` es una utilidad estándar de la bibliografía, no obligatoria según tu programa.
